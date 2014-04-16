@@ -1,7 +1,5 @@
 <?php
 echo "Manhish"; 
-
- 
 $pdfDirectory = "/opt/lampp/htdocs/test/";
 $thumbDirectory = "/opt/lampp/htdocs/test/";
  
